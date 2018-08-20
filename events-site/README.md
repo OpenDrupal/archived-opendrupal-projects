@@ -14,7 +14,7 @@ There will also be different groups of people using the admin side of the site -
 
 * Homepage: A homepage explaining the events we run and showcasing the next upcoming event.
 * ‘Contact us’ page: A page explaining how people can get in touch if they would like to run an event - use a contact form on this page.
-* A page at www.example.com\/events showing upcoming events with the next one first and future events
+* A page with teh path *events* showing upcoming events with the next one first and future events
 * Each event needs its own page
 * Each event must have:
 * A title
