@@ -1,6 +1,6 @@
-#Sooper Events - a local events site
+# Sooper Events - a local events site
 
-# Brief from the client
+## Brief from the client
 
 A client has come to your agency as they want a basic Events site. They have outlined to the sales team the key deliverables that needed. However the client has also requested some ‘nice to have’ items to be included, if there is remaining time available within the budget.
 
@@ -10,7 +10,7 @@ They have 3 venues where events are held, however as they are a growing company 
 
 There will also be different groups of people using the admin side of the site - promotors who run a particular event, venue managers who are responsible for a particular venue.
 
-# Key deliverables
+## Key deliverables
 
 * Homepage: A homepage explaining the events we run and showcasing the next upcoming event.
 * ‘Contact us’ page: A page explaining how people can get in touch if they would like to run an event - use a contact form on this page.
@@ -36,7 +36,7 @@ You could use field rendering or node rendering for the views - ask a mentor abo
 
 **hook\_form\_alter** will be useful for adding in custom validation methods. Events and their venues cannot clash i.e. you cannot create 2 separate events on the same day at the same venue. The Devel modules will help you in the development of custom modules and theme functions.
 
-# Bonus points
+## Bonus points
 
 * Add funtionality to tag events as Live music, comedy or DJ events - add pages in the main menu that list events under those headings
 * The title must automatically include the venue name
@@ -58,7 +58,7 @@ You could use field rendering or node rendering for the views - ask a mentor abo
 
 We host many amazing events locally across our 3 venues. Everything from club nights, live music, exhibitions to… well just about anything!
 
-# Site map
+## Site map
 
 * Homepage
 * Events
